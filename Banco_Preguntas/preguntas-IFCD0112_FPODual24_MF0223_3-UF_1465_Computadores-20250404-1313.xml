@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 0  -->
+  <question type="category">
+    <category>
+      <text>$course$/top/UF_1465_Computadores</text>
+    </category>
+    <info format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">UF_1465_Computadores<br></p>]]></text>
+    </info>
+    <idnumber>UF1465</idnumber>
+  </question>
+
+<!-- question: 47182  -->
+  <question type="multichoice">
+    <name>
+      <text>Almacenaje</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿Cuál es la principal desventaja de los discos SSD?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Fragmentación</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Limitado número de escrituras.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Consumo energético</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Requieren placa base compatible.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47185  -->
+  <question type="multichoice">
+    <name>
+      <text>Archivos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">En el contexto de los archivos en los sistemas operativos, ¿a qué hacen referencia los números mágicos?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">S</span><span data-ccp-parastyle="Respuesta">on los primeros bytes de un archivo que son exclusivos de un tipo de archivo en particular.</span></span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Indican la fecha y hora del último acceso al fichero.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Es el tamaño del fichero en bytes expresado en hexadecimal.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Son caracteres especiales para hacer magia encriptando ficheros.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47186  -->
+  <question type="multichoice">
+    <name>
+      <text>Archivos Enlaces</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"></p><div><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}" style="font-size: 0.9375rem;">En el contexto de los archivos en los sistemas operativos, podemos pasar de esta primera situación:</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}" style="font-size: 0.9375rem;">&nbsp;</span></div><div><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}" style="font-size: 0.9375rem;"><br></span></div><div><p paraid="1471015079" paraeid="{1f52fa95-feff-464c-b17d-27b39f960ce7}{33}"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"></span><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:29,&quot;335559731&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;335559991&quot;:360,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span></p></div><div><p paraid="958684420" paraeid="{1f52fa95-feff-464c-b17d-27b39f960ce7}{38}"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta">A una segunda situación:</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:29,&quot;335559731&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;335559991&quot;:360,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span></p></div><div><p paraid="10141561" paraeid="{1f52fa95-feff-464c-b17d-27b39f960ce7}{44}"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"></span><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:29,&quot;335559731&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;335559991&quot;:360,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span></p></div><div><p paraid="1555304175" paraeid="{1f52fa95-feff-464c-b17d-27b39f960ce7}{49}"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta">¿Cuál es la secuencia de comandos nos permite pasar de la primera situación a la segunda situación?&nbsp;</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559685&quot;:29,&quot;335559731&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;335559991&quot;:360,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span></p></div><br><p></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="auto" xml:lang="CA-ES" lang="CA-ES"><br>
+
+</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="auto" xml:lang="CA-ES" lang="CA-ES"><br>
+
+</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="auto" xml:lang="CA-ES" lang="CA-ES"><br>
+
+</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span role="presentation"><img unselectable="on" src="data:image/png;base64,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"></span><span data-contrast="auto" xml:lang="CA-ES" lang="CA-ES"><br>
+
+</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47183  -->
+  <question type="multichoice">
+    <name>
+      <text>Ensamblador</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿Cu</span><span data-ccp-parastyle="Pregunta">á</span><span data-ccp-parastyle="Pregunta">l es una de las últimas instrucciones que </span><span data-ccp-parastyle="Pregunta">vemos en ensamblador antes de que una rutina llamada devuelva el control a la rutina llamante?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">movl</span></span>	<span aria-hidden="true"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">$3, -4(%</span><span data-ccp-parastyle="Respuesta">rbp</span><span data-ccp-parastyle="Respuesta">)</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">call</span></span>	<span aria-hidden="true"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">puts@PLT</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">popq</span></span>	<span aria-hidden="true"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">%</span><span data-ccp-parastyle="Respuesta">rbp</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">.</span><span data-ccp-parastyle="Respuesta">string</span></span>	<span aria-hidden="true"></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">"</span><span data-ccp-parastyle="Respuesta">Hello</span><span data-ccp-parastyle="Respuesta"> </span><span data-ccp-parastyle="Respuesta">World</span><span data-ccp-parastyle="Respuesta">"</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47177  -->
+  <question type="multichoice">
+    <name>
+      <text>Memoria 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">De las PROM, cual usarías cuando tuvieras que actualizarlas in situ con actualizaciones de firmware?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">PROM</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">EPROM</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">EEPROM</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Flash</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47178  -->
+  <question type="multichoice">
+    <name>
+      <text>Memoria 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">La relación de velocidades entre el nivel de cache L1 y el nivel de cache L2 es de </span><span data-ccp-parastyle="Pregunta">...</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">1 a 4</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">1 a 1</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">1 a 2</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">1 a 3</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47184  -->
+  <question type="multichoice">
+    <name>
+      <text>Memoria virtual</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿Cuál de estos algoritmos de paginación de memoria </span><span data-ccp-parastyle="Pregunta">virtual considera</span><span data-ccp-parastyle="Pregunta"> la frecuencia de uso?&nbsp;</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">LRU</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">MRU</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">FIFO</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">NFU</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47171  -->
+  <question type="multichoice">
+    <name>
+      <text>Procesadores 1</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿</span><span data-ccp-parastyle="Pregunta">Cuál</span><span data-ccp-parastyle="Pregunta"> de estos conceptos no es una característica clave de un procesador</span><span data-ccp-parastyle="Pregunta">?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">La memoria RAM</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">La velocidad de reloj</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Número de n</span><span data-ccp-parastyle="Respuesta">ú</span><span data-ccp-parastyle="Respuesta">cleos</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Arquitectura</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47175  -->
+  <question type="multichoice">
+    <name>
+      <text>Procesadores 3</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">¿En qué bloque funcional del procesador se práctica matemática?&nbsp;</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">ALU</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">STACK</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">UNIDAD DE CONTROL</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">REGISTROS<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47176  -->
+  <question type="multichoice">
+    <name>
+      <text>Procesadores 4</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿Cuántos núcleos de más tiene cada uno de los Intel Core i5, i7, i9 respecto al modelo inferior</span><span data-ccp-parastyle="Pregunta"> en la </span><span data-ccp-parastyle="Pregunta"><a href="https://www.intel.la/content/www/xl/es/products/docs/processors/core/10th-gen-core-desktop-brief.html">generación 10</a> (la de los ordenadores de clase)</span><span data-ccp-parastyle="Pregunta">?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p><p dir="ltr" style="text-align: left;"><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}"><br></span></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">1 (i5=6, i7=7, i9=8)</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">2</span></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">(i5=6, i7=8, i9=10)</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">3</span></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">(i5=6, i7=9, i9=12)</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="auto" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">4</span></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta">(i5=6, i7=10, i9=14)</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47189  -->
+  <question type="multichoice">
+    <name>
+      <text>Sistemas Operativos: Permisos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">&nbsp;</span><span data-ccp-parastyle="Pregunta">Considerando el archivo </span><span data-ccp-parastyle="Pregunta">pregunta.txt</span><span data-ccp-parastyle="Pregunta">, ¿</span><span data-ccp-parastyle="Pregunta">Qué comando establece permiso de lectura al propietario del archivo, permiso de ejecución a los miembros de grupo al que pertenece el propietario del archivo y permiso de escritura a los usuarios que no son miembros del grupo al que pertenece el propietario del archivo</span><span data-ccp-parastyle="Pregunta">?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">chmod</span><span data-ccp-parastyle="Respuesta"> 412 pregunta-</span><span data-ccp-parastyle="Respuesta">txt</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">chmod</span><span data-ccp-parastyle="Respuesta"> </span><span data-ccp-parastyle="Respuesta">214</span><span data-ccp-parastyle="Respuesta"> pregunta-</span><span data-ccp-parastyle="Respuesta">txt</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">chmod</span><span data-ccp-parastyle="Respuesta"> </span><span data-ccp-parastyle="Respuesta">124</span><span data-ccp-parastyle="Respuesta"> pregunta-</span><span data-ccp-parastyle="Respuesta">txt</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">chmod</span><span data-ccp-parastyle="Respuesta"> 4</span><span data-ccp-parastyle="Respuesta">21</span><span data-ccp-parastyle="Respuesta"> pregunta-</span><span data-ccp-parastyle="Respuesta">txt</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47190  -->
+  <question type="multichoice">
+    <name>
+      <text>Sistemas Operativos: Seguridad</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">Indica cual de estos riesgos de seguridad podemos sufrir por una incorrecta activación de los bits SUID (Set </span><span data-ccp-parastyle="Pregunta">User</span><span data-ccp-parastyle="Pregunta"> ID) y SGID (Set </span><span data-ccp-parastyle="Pregunta">Group</span><span data-ccp-parastyle="Pregunta"> ID) en archivos</span><span data-ccp-parastyle="Pregunta"> </span><span data-ccp-parastyle="Pregunta">ejecutables.</span><span data-ccp-parastyle="Pregunta">&nbsp;</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="CA-ES" lang="CA-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">El </span><span data-ccp-parastyle="Respuesta">único</span><span data-ccp-parastyle="Respuesta"> </span><span data-ccp-parastyle="Respuesta">riesgo</span><span data-ccp-parastyle="Respuesta"> es que el programa no </span><span data-ccp-parastyle="Respuesta">funcione</span><span data-ccp-parastyle="Respuesta"> </span><span data-ccp-parastyle="Respuesta">correctamente</span><span data-ccp-parastyle="Respuesta">.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Denegación de servicio</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="CA-ES" lang="CA-ES"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">Q</span><span data-ccp-parastyle="Respuesta">ue un virus infecte el programa</span><span data-ccp-parastyle="Respuesta">.</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335551550&quot;:6,&quot;335551620&quot;:6,&quot;335559739&quot;:0,&quot;335559740&quot;:276}">&nbsp;</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-ccp-parastyle="Respuesta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|231&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;1027&quot;,335559740,&quot;276&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Arial&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Respuesta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Respuesta&quot;,335572020,&quot;1&quot;,335551550,&quot;6&quot;,335551620,&quot;6&quot;,469778324,&quot;Normal&quot;]}">SUID/SGID solo son </span><span data-ccp-parastyle="Respuesta">peligrosos</span><span data-ccp-parastyle="Respuesta"> en servidores, no en </span><span data-ccp-parastyle="Respuesta">equipos</span><span data-ccp-parastyle="Respuesta"> de </span><span data-ccp-parastyle="Respuesta">escritorio</span><br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47188  -->
+  <question type="multichoice">
+    <name>
+      <text>Sistemas Operativos: Usuarios</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<span data-contrast="none" xml:lang="CA-ES" lang="CA-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">&nbsp;</span></span><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta">Microsoft</span><span data-ccp-parastyle="Pregunta">,</span><span data-ccp-parastyle="Pregunta"> con su herramienta de gestión de usuario Active </span><span data-ccp-parastyle="Pregunta">Directory</span><span data-ccp-parastyle="Pregunta">, implementa varios protocolos. ¿reconoces alguno de ellos en estas opciones?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">DPAL</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">LPAD</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[LADP<p dir="ltr" style="text-align: left;"></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">LDAP</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47187  -->
+  <question type="multichoice">
+    <name>
+      <text>Superordenadores</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">¿Cuál de estos superordenadores está en Europa?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>La resposta és correcta.</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>La resposta és parcialment correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>La resposta és incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">SUMMIT</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">FUGAKU</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">LUMI</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">FRONTIER</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47995  -->
+  <question type="multichoice">
+    <name>
+      <text>Virtualización : Hipervisores</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Los Hipervisores de tipo1 se caracterizan por:</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Ejecutarse directamente sobre el hardware físico, actuando como una capa entre el hardware y los sistemas operativos invitados.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Ejecutarse sobre un sistema operativo existente, como una aplicación más.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Ejecutarse directamente sobre el hardware lógico, actuando como una capa entre el hardware y los sistemas operativos invitados.<br></p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Permitir la virtualización anidada.</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47997  -->
+  <question type="multichoice">
+    <name>
+      <text>VIrtualización: a nivel SO.</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">¿Qué herramienta de virtualización nos permite realizar una virtualización a nivel de sistema operativo?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">LXC</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">XEN</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Hyper-V</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">Virtual Box</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47996  -->
+  <question type="multichoice">
+    <name>
+      <text>VIrtualizacion :Tipos de ficheros</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">De los tipos de ficheros que podemos usar para archivar una máquina virtual con Virtual Box, ¿cuál permite cifrado?</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <single>true</single>
+    <shuffleanswers>true</shuffleanswers>
+    <answernumbering>abc</answernumbering>
+    <showstandardinstruction>0</showstandardinstruction>
+    <correctfeedback format="html">
+      <text>Respuesta correcta</text>
+    </correctfeedback>
+    <partiallycorrectfeedback format="html">
+      <text>Respuesta parcialmente correcta.</text>
+    </partiallycorrectfeedback>
+    <incorrectfeedback format="html">
+      <text>Respuesta incorrecta.</text>
+    </incorrectfeedback>
+    <shownumcorrect/>
+    <answer fraction="100" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">QCOW</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">VDI</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">VHD</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+    <answer fraction="0" format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;">WMDK</p>]]></text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+<!-- question: 47181  -->
+  <question type="numerical">
+    <name>
+      <text>Cálculos</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p dir="ltr" style="text-align: left;"><span data-contrast="none" xml:lang="ES-ES" lang="ES-ES"><span data-ccp-parastyle="Pregunta" data-ccp-parastyle-defn="{&quot;ObjectId&quot;:&quot;01d9fde6-bb50-40fb-a8ad-a962e293ee2d|235&quot;,&quot;ClassId&quot;:1073872969,&quot;Properties&quot;:[335551500,&quot;0&quot;,268442635,&quot;22&quot;,335559705,&quot;1033&quot;,335551547,&quot;3082&quot;,335559740,&quot;240&quot;,201341983,&quot;0&quot;,335559739,&quot;0&quot;,469777841,&quot;Calibri&quot;,469777842,&quot;Calibri&quot;,469777843,&quot;Calibri&quot;,469777844,&quot;Calibri&quot;,469769226,&quot;Calibri,Arial&quot;,469775450,&quot;Pregunta&quot;,201340122,&quot;2&quot;,134234082,&quot;true&quot;,134233614,&quot;true&quot;,469778129,&quot;Pregunta&quot;,335572020,&quot;1&quot;,335559685,&quot;29&quot;,335559731,&quot;0&quot;,469777462,&quot;313&quot;,469777927,&quot;0&quot;,469777928,&quot;1&quot;,335559682,&quot;3&quot;,335559683,&quot;0&quot;,469778324,&quot;Normal&quot;,469777804,&quot;%1.&quot;,469777803,&quot;left&quot;,469777815,&quot;hybridMultilevel&quot;,469769242,&quot;65533,0&quot;,335559991,&quot;360&quot;,536884268,&quot;{01d9fde6-bb50-40fb-a8ad-a962e293ee2d}{235}&quot;]}">1Gbps en términos teóricos equivale a 128 MB/s. En términos reales por cada 8 bits enviados hay un bit de paridad para control de errores. </span><span data-ccp-parastyle="Pregunta">¿En términos reales entonces a que corresponde 1 Gbps?</span></span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240,&quot;469777462&quot;:[313],&quot;469777927&quot;:[0],&quot;469777928&quot;:[1]}">&nbsp;</span><br></p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>113.78</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0.02</tolerance>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>114.78</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+    <answer fraction="0" format="moodle_auto_format">
+      <text>115.78</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+      <tolerance>0</tolerance>
+    </answer>
+<units>
+  <unit>
+    <multiplier>1</multiplier>
+    <unit_name>MB/s</unit_name>
+  </unit>
+  <unit>
+    <multiplier>1024</multiplier>
+    <unit_name>GB/s</unit_name>
+  </unit>
+  <unit>
+    <multiplier>0.00097656</multiplier>
+    <unit_name>KB/s</unit_name>
+  </unit>
+</units>
+    <unitgradingtype>1</unitgradingtype>
+    <unitpenalty>0.1000000</unitpenalty>
+    <showunits>1</showunits>
+    <unitsleft>0</unitsleft>
+  </question>
+
+</quiz>
